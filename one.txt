@@ -2,3 +2,6 @@ This is the first file in the one.
 
 
 This is the second file in the one
+
+I have add another file to the one. 
+So you know that sooething has changed.
